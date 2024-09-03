@@ -1,2 +1,3 @@
 Odin project
-Hello odin this is a work project.
+Some recipes
+html and unfinished css
